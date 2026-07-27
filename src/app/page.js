@@ -39,11 +39,11 @@ export default function Home() {
           <div className="flex flex-col items-center">
             {/* Top Monogram Symbol */}
             <div className="text-xl tracking-[0.3em] font-extralight mb-1">
-              | <span className="text-xs align-middle font-normal">V</span> | - |
+              | <span className="text-xs align-middle font-normal">U</span> | - |
             </div>
             {/* Main Brand Title */}
             <h1 className="tracking-[0.35em] text-2xl font-light uppercase">
-              Iris Van Herpen
+              David Blessing Ufedo
             </h1>
           </div>
 
@@ -89,7 +89,7 @@ export default function Home() {
       <main className="max-w-[1400px] mx-auto px-4 pt-8 pb-16">
         {/* Collection Heading */}
         <h2 className="text-center text-sm tracking-[0.25em] font-bold uppercase mb-8">
-          Sonic Starquakes
+          View My Collections
         </h2>
 
         {/* Gallery Carousel Container */}
