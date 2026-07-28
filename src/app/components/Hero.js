@@ -2,14 +2,14 @@ import Image from "next/image";
 
 export default function Hero() {
     const navItems = [
-        { label: 'HAUTE COUTURE', active: true },
-        { label: 'SCULPTING THE SENSES', active: false },
-        { label: 'SCULPTURE', active: false },
-        { label: 'BESPOKE', active: false },
-        { label: 'MUSES', active: false },
-        { label: 'BOUTIQUE', active: false },
-        { label: 'NEWS', active: false },
-        { label: 'THE MAISON OF IRIS VAN HERPEN', active: false },
+        { label: 'HAUTE COUTURE', active: true , href: "#hero" },
+        { label: 'SCULPTING THE SENSES',  href: "#about" },
+        { label: 'SCULPTURE', active: false, href: "#about" },
+        { label: 'BESPOKE', active: false href: "#about" },
+        { label: 'MUSES', active: false href: "#about" },
+        { label: 'BOUTIQUE', active: false href: "#about" },
+        { label: 'NEWS', active: false  href: "#about"},
+        { label: 'THE MAISON OF IRIS VAN HERPEN', active: false   href: "#about"},
       ];
     
       const galleryImages = [
