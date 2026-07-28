@@ -4,12 +4,12 @@ export default function Hero() {
     const navItems = [
         { label: 'HAUTE COUTURE', active: true , href: "#hero" },
         { label: 'SCULPTING THE SENSES',  href: "#about" },
-        { label: 'SCULPTURE', active: false, href: "#about" },
-        { label: 'BESPOKE', active: false href: "#about" },
-        { label: 'MUSES', active: false href: "#about" },
-        { label: 'BOUTIQUE', active: false href: "#about" },
-        { label: 'NEWS', active: false  href: "#about"},
-        { label: 'THE MAISON OF IRIS VAN HERPEN', active: false   href: "#about"},
+        { label: 'SCULPTURE', href: "#about" },
+        { label: 'BESPOKE', href: "#about" },
+        { label: 'MUSES', href: "#about" },
+        { label: 'BOUTIQUE', href: "#about" },
+        { label: 'NEWS', href: "#about"},
+        { label: 'THE MAISON OF IRIS VAN HERPEN',  href: "#about"},
       ];
     
       const galleryImages = [
