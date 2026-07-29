@@ -5,6 +5,7 @@ import Campaign from "./components/Campaign"
 import Editorial from "./components/Editorial"
 import Runway from "./components/Runway"
 import Story from "./components/Story"
+import Contact from "./components/Contact"
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <Editorial/>
       <Runway/>
       <Story/>
+      <Contact/>
     </main>
   );
 }
