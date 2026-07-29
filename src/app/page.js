@@ -6,8 +6,8 @@ import About from "./components/About";
 export default function Home() {
   return (
     <main className="">
-      <Hero/> 
-      <About/> 
+      {/* <Hero/>  */}
+      {/* <About/>  */}
     </main>
   );
 }
