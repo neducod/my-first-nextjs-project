@@ -3,13 +3,13 @@
 import { useEffect, useState } from "react";
 
 const navItems = [
-  { label: "HAUTE COUTURE", href: "#hero", id: "hero" },
-  { label: "SCULPTING THE SENSES", href: "#sculpting", id: "sculpting" },
-  { label: "SCULPTURE", href: "#sculpture", id: "sculpture" },
-  { label: "BESPOKE", href: "#bespoke", id: "bespoke" },
-  { label: "MUSES", href: "#muses", id: "muses" },
-  { label: "BOUTIQUE", href: "#boutique", id: "boutique" },
-  { label: "NEWS", href: "#news", id: "news" },
+  { label: "Navigation", href: "#hero", id: "hero" },
+  { label: "Collection", href: "#sculpting", id: "sculpting" },
+  { label: "Campaign", href: "#sculpture", id: "sculpture" },
+  { label: "Editorial", href: "#bespoke", id: "bespoke" },
+  { label: "Runway", href: "#muses", id: "muses" },
+  { label: "Story", href: "#boutique", id: "boutique" },
+  { label: "Contact", href: "#news", id: "news" },
 ];
 
 export default function Navbar() {
