@@ -2,10 +2,10 @@ import Image from "next/image";
 
 export default function Hero() {
   const galleryImages = [
-    { src: "/look1.jpg", alt: "Look 1 - Gold organza dress" },
+    { src: "/assets", alt: "Look 1 - Gold organza dress" },
     { src: "/look2.jpg", alt: "Look 2 - Blue layered gown" },
     { src: "/look3.jpg", alt: "Look 3 - Luminous green dress" },
-    { src: "/look4.jpg", alt: "Look 4 - Sheer structured gown" },
+    { src: "/look3.jpg", alt: "Look 4 - Sheer structured gown" },
   ];
 
   return (
