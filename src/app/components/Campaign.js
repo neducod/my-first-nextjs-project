@@ -67,7 +67,7 @@ export default function InMotionCampaign() {
   };
 
   return (
-    <div className="w-full max-w-7xl mx-auto px-4 py-12 font-sans bg-neutral-950 text-neutral-100 min-h-screen">
+    <div className="w-full max-w-7xl mx-auto px-4 py-12 font-sans bg-neutral-950 text-neutral-100 min-h-screen" id='campaign' >
       
       {/* Editorial Header */}
       <header className="mb-10 pb-6 border-b border-neutral-800 flex flex-col md:flex-row md:items-end justify-between gap-4">

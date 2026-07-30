@@ -41,7 +41,7 @@ const CAPSULE_ITEMS = [
 
 export default function FivePieceCapsule() {
   return (
-    <section className="w-full max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-20 text-stone-900 font-sans tracking-tight selection:bg-stone-200">
+    <section className="w-full max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-20 text-stone-900 font-sans tracking-tight selection:bg-stone-200" id="editorial">
       {/* Header */}
       <header className="mb-10 sm:mb-16 border-b border-stone-200 pb-6 sm:pb-8">
         <span className="text-[10px] sm:text-xs uppercase tracking-widest text-stone-400 font-medium block">

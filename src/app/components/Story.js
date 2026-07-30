@@ -1,4 +1,3 @@
-
 'use client';
 
 import React from 'react';
@@ -23,7 +22,7 @@ const PILLARS = [
 
 export default function AboutPillarsSection() {
   return (
-    <section className="w-full bg-white text-neutral-900 font-sans border-t border-neutral-100 py-20 md:py-32 px-6 md:px-12">
+    <section className="w-full bg-white text-neutral-900 font-sans border-t border-neutral-100 py-20 md:py-32 px-6 md:px-12" id='story'>
       <div className="max-w-6xl mx-auto">
         {/* Section Header */}
         <div className="mb-16 md:mb-24">

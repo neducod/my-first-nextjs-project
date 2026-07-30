@@ -30,7 +30,7 @@ export default function SingleStreamFeed() {
   const [activeInfo, setActiveInfo] = useState(null);
 
   return (
-    <div className="min-h-screen bg-white text-neutral-900 font-sans selection:bg-neutral-900 selection:text-white">
+    <div className="min-h-screen bg-white text-neutral-900 font-sans selection:bg-neutral-900 selection:text-white" id='runway'>
       {/* Minimal Header */}
       <header className="sticky top-0 z-50 bg-white/80 backdrop-blur-md px-6 py-4 flex justify-between items-center text-xs tracking-widest uppercase border-b border-neutral-100">
         <span className="font-medium tracking-tight">Runway Feed</span>

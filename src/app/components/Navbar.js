@@ -5,11 +5,11 @@ import { useEffect, useState } from "react";
 const navItems = [
   { label: "Navigation", href: "#hero", id: "hero" },
   { label: "Collection", href: "#collections", id: "collection" },
-  { label: "Campaign", href: "#sculpture", id: "sculpture" },
-  { label: "Editorial", href: "#bespoke", id: "bespoke" },
-  { label: "Runway", href: "#muses", id: "muses" },
-  { label: "Story", href: "#boutique", id: "boutique" },
-  { label: "Contact", href: "#news", id: "news" },
+  { label: "Campaign", href: "#campaign", id: "campaign" },
+  { label: "Editorial", href: "#editorial", id: "editorial" },
+  { label: "Runway", href: "#runway", id: "runway" },
+  { label: "Story", href: "#story", id: "story" },
+  { label: "Contact", href: "#contact", id: "contact" },
 ];
 
 export default function Navbar() {
