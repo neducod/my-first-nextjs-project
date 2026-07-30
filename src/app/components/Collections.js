@@ -3,9 +3,9 @@ import Image from "next/image";
 export default function Hero() {
   const galleryImages = [
     { src: "/image.jpg", alt: "Look 1 - Gold organza dress" },
-    { src: "/look2.jpg", alt: "Look 2 - Blue layered gown" },
-    { src: "/look3.jpg", alt: "Look 3 - Luminous green dress" },
-    { src: "/look3.jpg", alt: "Look 4 - Sheer structured gown" },
+    { src: "/image2.jpg", alt: "Look 2 - Blue layered gown" },
+    { src: "/image3.jpg", alt: "Look 3 - Luminous green dress" },
+    { src: "/image4.jpg", alt: "Look 4 - Sheer structured gown" },
   ];
 
   return (
