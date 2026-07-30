@@ -15,7 +15,7 @@ export default function InMotionCampaign() {
       id: 1,
       title: "Silk Chiffon Drape",
       focus: "Fluidity & Light Reflection",
-      videoUrl: "https://assets.mixkit.co/videos/preview/mixkit-fashion-model-wearing-a-yellow-dress-41549-large.mp4",
+      videoUrl: "/video.mp4",
       tag: "3.5s Loop",
       notes: "100% Organic Mulberry Silk • 12 Momme"
     },
