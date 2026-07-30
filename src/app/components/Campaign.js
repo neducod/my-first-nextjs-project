@@ -23,7 +23,7 @@ export default function InMotionCampaign() {
       id: 2,
       title: "Structured Wool Tailoring",
       focus: "Crease Recovery & Structure",
-      videoUrl: "https://assets.mixkit.co/videos/preview/mixkit-woman-walking-on-a-catwalk-in-a-fashion-show-41484-large.mp4",
+      videoUrl: "/video1.mp4",
       tag: "4.0s Loop",
       notes: "Architectural Cut • Double-Faced Weave"
     },
@@ -31,7 +31,7 @@ export default function InMotionCampaign() {
       id: 3,
       title: "Pleated Movement in Wind",
       focus: "Elastic Memory & Weight",
-      videoUrl: "https://assets.mixkit.co/videos/preview/mixkit-stylish-girl-posing-in-a-photoshoot-41551-large.mp4",
+      videoUrl: "/video2.mp4",
       tag: "3.2s Loop",
       notes: "Thermal Pleating • Micro-Recycled Poly"
     }
