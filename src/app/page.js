@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 import Navbar from "./components/Navbar"
 import Collections from "./components/Collections"
 import Campaign from "./components/Campaign"
